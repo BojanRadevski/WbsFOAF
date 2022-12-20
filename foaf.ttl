@@ -2,7 +2,7 @@
 @prefix ns0: <http://webns.net/mvcb/> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 
-<https://www.dropbox.com/s/wvp5zzx24h2j5zq/foaf.ttl?dl=1>
+https://bojanradevski.github.io/WbsFOAF/foaf.ttl
   a foaf:PersonalProfileDocument ;
   foaf:maker <https://www.dropbox.com/s/wvp5zzx24h2j5zq/foaf.ttl?dl=1#me> ;
   foaf:primaryTopic <https://www.dropbox.com/s/wvp5zzx24h2j5zq/foaf.ttl?dl=1#me> ;
