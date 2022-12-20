@@ -2,14 +2,14 @@
 @prefix ns0: <http://webns.net/mvcb/> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 
-https://bojanradevski.github.io/WbsFOAF/foaf.ttl
+<https://bojanradevski.github.io/WbsFOAF/foaf.ttl>
   a foaf:PersonalProfileDocument ;
-  foaf:maker <https://www.dropbox.com/s/wvp5zzx24h2j5zq/foaf.ttl?dl=1#me> ;
-  foaf:primaryTopic <https://www.dropbox.com/s/wvp5zzx24h2j5zq/foaf.ttl?dl=1#me> ;
+  foaf:maker <https://bojanradevski.github.io/WbsFOAF/foaf.ttl#me> ;
+  foaf:primaryTopic <https://bojanradevski.github.io/WbsFOAF/foaf.ttl#me> ;
   ns0:generatorAgent <http://www.ldodds.com/foaf/foaf-a-matic> ;
   ns0:errorReportsTo <mailto:leigh@ldodds.com> .
 
-<https://www.dropbox.com/s/wvp5zzx24h2j5zq/foaf.ttl?dl=1#me>
+<https://bojanradevski.github.io/WbsFOAF/foaf.ttl#me>
   a foaf:Person ;
   foaf:name "Bojan Radevski" ;
   foaf:title "Student" ;
@@ -18,10 +18,10 @@ https://bojanradevski.github.io/WbsFOAF/foaf.ttl
   foaf:nick "Bojan" ;
   foaf:mbox_sha1sum "7a5068ff42445d2cc4f3c9b3998515f4cfe149bf" ;
   foaf:homepage <https://www.facebook.com/bojan.radevski.11> ;
-  foaf:depiction <https://www.dropbox.com/> ;
+  foaf:depiction <https://bojanradevski.github.io/> ;
   foaf:phone <tel:072263469> ;
   foaf:workplaceHomepage <https://www.facebook.com/bojan.radevski.11> ;
-  foaf:workInfoHomepage <https://www.dropbox.com/s/wvp5zzx24h2j5zq/Web Development> ;
+  foaf:workInfoHomepage <https://bojanradevski.github.io/WbsFOAF/Web Development> ;
   foaf:schoolHomepage <https://www.finki.ukim.mk/> ;
   foaf:knows [
     a foaf:Person ;
